@@ -160,7 +160,7 @@ acid run "Phantom Reads"
 
 ```bash
 # macOS (Homebrew)
-brew install --cask rusinikita/acid/acid
+brew install --cask rusinikita/tap/acid
 
 # Linux / macOS (shell script)
 curl -fsSL https://raw.githubusercontent.com/rusinikita/acid/main/install.sh | sh
